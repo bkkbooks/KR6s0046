@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6s0046/t/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 禮懺文
+  edition:
+    short: t
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T85/T85n2854.xml
+    old_id: T85n2854
+hash: sha256:a333ac5cf8a607e88464d0dba5aa03f2d6d516f6efbfc613edcd53c17c5e9507

@@ -1,0 +1,42 @@
+canonical_identifier: bkk:krp/KR6s0046/v1
+canonical_location: https://kanripo.org/bkk/KR6s0046/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 禮懺文
+  identifiers:
+    alt_id:
+    - T85n2854
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T85/T85n2854.xml
+    old_id: T85n2854
+  edition:
+    short: bkk
+editions:
+- short: 大
+  label: 大
+  source_xml_id: wit.orig
+- short: T
+assets:
+  parts:
+  - {seq: 0, filename: KR6s0046_000.yaml, hash: 'sha256:a333ac5cf8a607e88464d0dba5aa03f2d6d516f6efbfc613edcd53c17c5e9507'}
+  - {seq: 1, filename: KR6s0046_001.yaml, hash: 'sha256:cd8d1d9a111b9a182fba518dc63081b44bf0445c0223706274eeee99c75524e1'}
+  markers:
+  - {seq: 1, role: markers, filename: assets/KR6s0046_001.markers.yaml, hash: 'sha256:db1d8781a6e92b44ca7ab5185acc4b49a9386698aa97cc04e7951db9c8da9248'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6s0046_T_001-juan-start
+    span:
+    - body
+    - 0
+    - 1358
+  label: 禮懺文一本
+  type: juan
+  level: 1
+hash: sha256:8a4e67c2df467eb09c631c84dd73b5eae7f84c64ca989bd27ca424e31a40b5d8
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
