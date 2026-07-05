@@ -22,9 +22,10 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6s0046_000.yaml, hash: 'sha256:a333ac5cf8a607e88464d0dba5aa03f2d6d516f6efbfc613edcd53c17c5e9507'}
-  - {seq: 1, filename: KR6s0046_001.yaml, hash: 'sha256:cd8d1d9a111b9a182fba518dc63081b44bf0445c0223706274eeee99c75524e1'}
+  - {seq: 1, filename: KR6s0046_001.yaml, hash: 'sha256:74a5b9f6e44fe9fd481b6e4f8627ccfa52a93dedb884e6b080cac551ae4dff40'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR6s0046_001.markers.yaml, hash: 'sha256:db1d8781a6e92b44ca7ab5185acc4b49a9386698aa97cc04e7951db9c8da9248'}
+  - {seq: 0, role: markers, filename: assets/KR6s0046_000.markers.yaml, hash: 'sha256:c7111ff6a255b5569041303a78d7268d09f09c9673f659967d4589d8854d33fa'}
+  - {seq: 1, role: markers, filename: assets/KR6s0046_001.markers.yaml, hash: 'sha256:3aec2b051c00233a4b68b32a04eae696d202a8140d14335dd93a08a2751f0c5c'}
 table_of_contents:
 - ref:
     seq: 1
@@ -36,7 +37,4 @@ table_of_contents:
   label: 禮懺文一本
   type: juan
   level: 1
-hash: sha256:8a4e67c2df467eb09c631c84dd73b5eae7f84c64ca989bd27ca424e31a40b5d8
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:a6518606f9a6185b9b7d08e47f094f7956a6f37d3e0b1fe1871f4a5ae19a775a
